@@ -1,4 +1,4 @@
-# R script to accopany Intro to R
+# tra418 R script to accopany Intro to R
 #######################################################
 
 # Assignment Examples
